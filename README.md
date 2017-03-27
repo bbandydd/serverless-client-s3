@@ -22,6 +22,7 @@ plugins:
   - serverless-client-s3
  custom:
    client:
+     path: your-dist-path
      bucketName: whatsbertdoing-client
 ```
 
